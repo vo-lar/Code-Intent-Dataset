@@ -1,4 +1,4 @@
-# A "code-intent pair" dataset containing 26 secure code auditing intent categories, comprising 26,000 functions for training and 4,830 for testing
+A "code-intent pair" dataset containing 26 secure code auditing intent categories, comprising 26,000 functions for training and 4,830 for testing
 
 ## intent intent categories
 
