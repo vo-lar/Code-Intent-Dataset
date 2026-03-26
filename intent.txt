@@ -1,0 +1,35 @@
+[
+    #  A_user_identity
+    "user_registration",
+    "user_login",
+    "user_logout",
+    "permission_check",
+    "token_or_session_handling",
+    "verification_sms_email_captcha",
+
+    # B_core_business
+    "order_or_payment_operation",
+    "file_upload",
+    "file_download",
+    "search_or_pagination",
+    "config_change",
+    "workflow_or_status_update",
+    "crud_operation",
+    "sensitive_user_action",
+    "business_report_query",
+
+    # C_data_resource_access
+    "sql_execution",
+    "orm_operation",
+    "cache_access",
+    "filesystem_access",
+    "command_execution",
+    "internal_service_rpc_call",
+    "transaction_handling",
+    "crypto_or_key_operation",
+
+    # D_external_system
+    "third_party_api_call",
+    "message_queue_operation",
+    "config_env_access",
+]
