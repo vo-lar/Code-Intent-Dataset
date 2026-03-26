@@ -37,7 +37,7 @@ A "code-intent pair" dataset containing 26 secure code auditing intent categorie
   - "config_env_access"
 
 
-## token count
+## token length count
 
 | Intent | Count | Min | Max | Median | Mean | Std |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
